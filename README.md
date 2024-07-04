@@ -1,41 +1,12 @@
-<style>
-  .gif-container {
-    position: relative;
-    text-align: center;
-    color: white; /* Text color */
-  }
-  
-  .gif {
-    display: block;
-    width: 100%;
-    height: auto;
-    opacity: 0.7; /* Adjust opacity as needed */
-  }
-  
-  .text-overlay {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 80%;
-    max-width: 600px; /* Adjust width as needed */
-    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
-    padding: 20px;
-    border-radius: 10px;
-  }
-</style>
 
 <h1 align="center">Hi 👋, I'm Masudur Rahaman</h1>
 <h3 align="center">An enthusiastic content writer</h3>
-
-<div class="gif-container">
-  <div class="text-overlay">
-    <p>
-      I am a highly motivated GIS enthusiast with over three years of experience in the geospatial industry. My passion lies in leveraging cutting-edge technology and innovative methods to study our planet.
-    </p>
-  </div>
-  <img class="gif" src="https://dribbble.com/shots/2951104-Data-Science-Philanthropy/attachments/9572691?mode=media" alt="Your GIF">
-</div>
+<img align="right" alt="coding" width="400" src="[https://user-
+images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.giff](https://www.pinterest.com/pin/sql-for-data-science-onestop-solution-for-beginners--595108538257759935/)>
+<p>
+I am a highly motivated GIS enthusiast with over three years of experience in the geospatial industry. My passion lies in leveraging cutting-edge technology and innovative methods to study our planet.
+</p>
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmasudurrahaman&label=Profile%20views&color=0e75b6&style=flat" alt="mdmasudurrahaman" /> </p>
 
